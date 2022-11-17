@@ -1,0 +1,4 @@
+Modification method:
+1. Copy the program to be modified to the same directory as buf.py, and rename it to dump.
+2. Run python buf.py, the y.c file will be generated
+3. After compiling the y.c file, the modified program can be obtained.
